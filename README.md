@@ -10,4 +10,4 @@ gan.py trains a GAN based on term data, preterm data, or both and outputs simula
 
 feature_importance.py simply ranks importance of features for both basic models
 
-ptb_gan_tsne.png is a quick TSNE plot roughly showing GAN simulated data's similarity to real data
+ptb_gan_tsne.png is a very quick TSNE plot roughly showing GAN simulated data's similarity to real data
